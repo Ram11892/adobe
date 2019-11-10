@@ -1,5 +1,4 @@
-int a = 200
-
+int a=200
 wsdhgwdhbskjcxbsajkxkx
 xjksbxjlsbxjlksxs
 slmxnsklcxnslkc
