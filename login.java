@@ -1,4 +1,5 @@
-int a=200
+
+int a=100
 wsdhgwdhbskjcxbsajkxkx
 xjksbxjlsbxjlksxs
 slmxnsklcxnslkc
