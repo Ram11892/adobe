@@ -1,8 +1,4 @@
-
-
-
-
-int a=100
+int a=250
 wsdhgwdhbskjcxbsajkxkx
 xjksbxjlsbxjlksxs
 slmxnsklcxnslkc
